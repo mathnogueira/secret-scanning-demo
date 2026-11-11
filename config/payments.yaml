@@ -1,0 +1,4 @@
+payments:
+  provider: internal
+  currency: usd
+  github_token: ghp_ChOU7AtkuZX4iQ2yrgvbpQkPIu35spJKBxeD

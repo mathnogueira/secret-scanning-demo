@@ -1,6 +1,6 @@
 import requests
 
-GITHUB_TOKEN = "ghp_ChOU7AtkuZX4iQ2yrgvbpQkPIu35spJKBxeD"
+GITHUB_TOKEN = "ghp_iZ1LnZ3FGHD7CT8PxXUdNsDUzt5lY4o9RSRN"
 
 
 def open_invoice_issue(title: str, body: str) -> dict:
